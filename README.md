@@ -5,7 +5,7 @@
 Me chamo Alvaro Motta, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software no Centro Universitário Católica do Leste de Minas Gerais (UNILESTE). Sempre tive interesse por tecnologia e decidi seguir essa área como plano de carreira. Você pode encontrar mais informações sobre mim e meus projetos no meu [linkedin](https://www.linkedin.com/in/mottadev/).
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mottadev/">
+    <a href="https://www.linkedin.com/in/alvaromottadev/">
         <img 
             alt="Linkedin" 
             title="Acesse o meu linkedin" 
