@@ -35,6 +35,14 @@ Me chamo Alvaro Motta, tenho 19 anos e sou natural de Minas Gerais. Atualmente, 
 />
 <img 
     align="left" 
+    alt="Spring Framework"
+    title="Spring Framework" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
