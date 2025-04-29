@@ -84,7 +84,7 @@ Me chamo Alvaro Motta, tenho 19 anos e sou natural de Minas Gerais. Atualmente, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromottadev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromottadev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>
