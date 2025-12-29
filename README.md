@@ -6,7 +6,7 @@
   <ul>
     <li>🎓 <strong>Graduando</strong> em Engenharia de Software - UNILESTE</li>
     <li>🖥️ <strong>Software Developer | Backend Developer | Java | Spring Framework</strong></li>
-    <li>🎂 <strong>19 anos</strong> - 2005</li>
+    <li>🎂 <strong>20 anos</strong> - 2005</li>
     <li>🌍 <strong> Minas Gerais
   </ul>
 </div>
@@ -55,8 +55,9 @@
 <code><img width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 
 
-<!-- GitHub Stats -->
-<div align="center">  
+<!-- GitHub Stats 
+ <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvaromottadev&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Alvaro Motta GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromottadev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117&langs_count=5" />
-</div>
+</div> 
+-->
